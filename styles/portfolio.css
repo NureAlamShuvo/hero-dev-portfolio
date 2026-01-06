@@ -171,11 +171,13 @@ nav .menu a{
     gap: 24px;
 }
 .resume-container hr{
-    margin: 30px 0;
+    margin: 30px 0 0;
+    /* width: 100%; */
 }
 .resume-container .section-tittle{
     color: #474747;
     font-size: 30px;
+    /* margin-bottom: 30px; */
 }
 .resume-card{
     max-width: 511px;
@@ -235,3 +237,4 @@ footer .footer-container{
     border-radius: 5px;
     color: #757575;
 }
+
